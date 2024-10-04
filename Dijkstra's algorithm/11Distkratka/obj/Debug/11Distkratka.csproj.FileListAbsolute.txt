@@ -1,0 +1,30 @@
+C:\Users\Алимжан\Desktop\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\bin\Debug\11Distkratka.exe.config
+C:\Users\Алимжан\Desktop\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\bin\Debug\11Distkratka.exe
+C:\Users\Алимжан\Desktop\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\bin\Debug\11Distkratka.pdb
+C:\Users\Алимжан\Desktop\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.csproj.AssemblyReference.cache
+C:\Users\Алимжан\Desktop\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\_11Distkratka.Form1.resources
+C:\Users\Алимжан\Desktop\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\_11Distkratka.Properties.Resources.resources
+C:\Users\Алимжан\Desktop\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.csproj.GenerateResource.cache
+C:\Users\Алимжан\Desktop\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.csproj.CoreCompileInputs.cache
+C:\Users\Алимжан\Desktop\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.exe
+C:\Users\Алимжан\Desktop\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.pdb
+D:\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\bin\Debug\11Distkratka.exe.config
+D:\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\bin\Debug\11Distkratka.exe
+D:\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\bin\Debug\11Distkratka.pdb
+D:\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.csproj.AssemblyReference.cache
+D:\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\_11Distkratka.Form1.resources
+D:\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\_11Distkratka.Properties.Resources.resources
+D:\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.csproj.GenerateResource.cache
+D:\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.csproj.CoreCompileInputs.cache
+D:\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.exe
+D:\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.pdb
+C:\Алим\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\bin\Debug\11Distkratka.exe.config
+C:\Алим\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\bin\Debug\11Distkratka.exe
+C:\Алим\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\bin\Debug\11Distkratka.pdb
+C:\Алим\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.csproj.AssemblyReference.cache
+C:\Алим\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\_11Distkratka.Form1.resources
+C:\Алим\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\_11Distkratka.Properties.Resources.resources
+C:\Алим\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.csproj.GenerateResource.cache
+C:\Алим\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.csproj.CoreCompileInputs.cache
+C:\Алим\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.exe
+C:\Алим\2 курс 1 семестр\Дискретка\11 week Diskretka\11Distkratka\11Distkratka\obj\Debug\11Distkratka.pdb
