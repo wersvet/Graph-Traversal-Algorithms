@@ -1,0 +1,20 @@
+C:\Users\Алимжан\Desktop\Дискретка\9 week Discretka\9weekdiscretka\9weekDiscretka\9weekDiscretka\bin\Debug\9weekDiscretka.exe.config
+C:\Users\Алимжан\Desktop\Дискретка\9 week Discretka\9weekdiscretka\9weekDiscretka\9weekDiscretka\bin\Debug\9weekDiscretka.exe
+C:\Users\Алимжан\Desktop\Дискретка\9 week Discretka\9weekdiscretka\9weekDiscretka\9weekDiscretka\bin\Debug\9weekDiscretka.pdb
+C:\Users\Алимжан\Desktop\Дискретка\9 week Discretka\9weekdiscretka\9weekDiscretka\9weekDiscretka\obj\Debug\9weekDiscretka.csproj.AssemblyReference.cache
+C:\Users\Алимжан\Desktop\Дискретка\9 week Discretka\9weekdiscretka\9weekDiscretka\9weekDiscretka\obj\Debug\_9weekDiscretka.Form1.resources
+C:\Users\Алимжан\Desktop\Дискретка\9 week Discretka\9weekdiscretka\9weekDiscretka\9weekDiscretka\obj\Debug\_9weekDiscretka.Properties.Resources.resources
+C:\Users\Алимжан\Desktop\Дискретка\9 week Discretka\9weekdiscretka\9weekDiscretka\9weekDiscretka\obj\Debug\9weekDiscretka.csproj.GenerateResource.cache
+C:\Users\Алимжан\Desktop\Дискретка\9 week Discretka\9weekdiscretka\9weekDiscretka\9weekDiscretka\obj\Debug\9weekDiscretka.csproj.CoreCompileInputs.cache
+C:\Users\Алимжан\Desktop\Дискретка\9 week Discretka\9weekdiscretka\9weekDiscretka\9weekDiscretka\obj\Debug\9weekDiscretka.exe
+C:\Users\Алимжан\Desktop\Дискретка\9 week Discretka\9weekdiscretka\9weekDiscretka\9weekDiscretka\obj\Debug\9weekDiscretka.pdb
+C:\Алим\2 курс 1 семестр\Дискретка\9 week Discretka\9weekdiscretka\9weekdiscretka\9weekDiscretka\bin\Debug\9weekDiscretka.exe.config
+C:\Алим\2 курс 1 семестр\Дискретка\9 week Discretka\9weekdiscretka\9weekdiscretka\9weekDiscretka\bin\Debug\9weekDiscretka.exe
+C:\Алим\2 курс 1 семестр\Дискретка\9 week Discretka\9weekdiscretka\9weekdiscretka\9weekDiscretka\bin\Debug\9weekDiscretka.pdb
+C:\Алим\2 курс 1 семестр\Дискретка\9 week Discretka\9weekdiscretka\9weekdiscretka\9weekDiscretka\obj\Debug\9weekDiscretka.csproj.AssemblyReference.cache
+C:\Алим\2 курс 1 семестр\Дискретка\9 week Discretka\9weekdiscretka\9weekdiscretka\9weekDiscretka\obj\Debug\_9weekDiscretka.Form1.resources
+C:\Алим\2 курс 1 семестр\Дискретка\9 week Discretka\9weekdiscretka\9weekdiscretka\9weekDiscretka\obj\Debug\_9weekDiscretka.Properties.Resources.resources
+C:\Алим\2 курс 1 семестр\Дискретка\9 week Discretka\9weekdiscretka\9weekdiscretka\9weekDiscretka\obj\Debug\9weekDiscretka.csproj.GenerateResource.cache
+C:\Алим\2 курс 1 семестр\Дискретка\9 week Discretka\9weekdiscretka\9weekdiscretka\9weekDiscretka\obj\Debug\9weekDiscretka.csproj.CoreCompileInputs.cache
+C:\Алим\2 курс 1 семестр\Дискретка\9 week Discretka\9weekdiscretka\9weekdiscretka\9weekDiscretka\obj\Debug\9weekDiscretka.exe
+C:\Алим\2 курс 1 семестр\Дискретка\9 week Discretka\9weekdiscretka\9weekdiscretka\9weekDiscretka\obj\Debug\9weekDiscretka.pdb
