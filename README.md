@@ -1,6 +1,5 @@
 # Graph-Traversal-Algorithms
-Breadth-first and depth-first traversal algorithm. Dijkstra's algorithm. Prim's algorithm. Kruskal's algorithm.
----
+### Breadth-first and depth-first traversal algorithm. Dijkstra's algorithm. Prim's algorithm. Kruskal's algorithm. Task to enumerate:
 <h2>Breadth-first and Depth-first search</h2>
 
 ![bf_df_search_video](https://github.com/user-attachments/assets/713915aa-e8ee-4fb4-811a-6d6cdb22e8b8)
@@ -32,6 +31,8 @@ Breadth-first and depth-first traversal algorithm. Dijkstra's algorithm. Prim's 
 
 ---
 <h2>kolesiki</h2>
+
+Task to enumerate: 50 - there is a speedometer with 3 wheels, each from 0 to 9. Type all the options.
 
 ![kolesiki](https://github.com/user-attachments/assets/09858da4-8ad0-4000-b176-60df15ad8c9e)
 
