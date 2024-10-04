@@ -1,0 +1,30 @@
+C:\Users\Алимжан\Desktop\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\bin\Debug\14weekdiskretka.exe.config
+C:\Users\Алимжан\Desktop\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\bin\Debug\14weekdiskretka.exe
+C:\Users\Алимжан\Desktop\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\bin\Debug\14weekdiskretka.pdb
+C:\Users\Алимжан\Desktop\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.csproj.AssemblyReference.cache
+C:\Users\Алимжан\Desktop\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\_14weekdiskretka.Form1.resources
+C:\Users\Алимжан\Desktop\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\_14weekdiskretka.Properties.Resources.resources
+C:\Users\Алимжан\Desktop\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.csproj.GenerateResource.cache
+C:\Users\Алимжан\Desktop\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.csproj.CoreCompileInputs.cache
+C:\Users\Алимжан\Desktop\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.exe
+C:\Users\Алимжан\Desktop\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.pdb
+D:\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\bin\Debug\14weekdiskretka.exe.config
+D:\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\bin\Debug\14weekdiskretka.exe
+D:\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\bin\Debug\14weekdiskretka.pdb
+D:\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.csproj.AssemblyReference.cache
+D:\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\_14weekdiskretka.Form1.resources
+D:\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\_14weekdiskretka.Properties.Resources.resources
+D:\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.csproj.GenerateResource.cache
+D:\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.csproj.CoreCompileInputs.cache
+D:\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.exe
+D:\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.pdb
+C:\Алим\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\bin\Debug\14weekdiskretka.exe.config
+C:\Алим\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\bin\Debug\14weekdiskretka.exe
+C:\Алим\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\bin\Debug\14weekdiskretka.pdb
+C:\Алим\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.csproj.AssemblyReference.cache
+C:\Алим\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\_14weekdiskretka.Form1.resources
+C:\Алим\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\_14weekdiskretka.Properties.Resources.resources
+C:\Алим\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.csproj.GenerateResource.cache
+C:\Алим\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.csproj.CoreCompileInputs.cache
+C:\Алим\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.exe
+C:\Алим\2 курс 1 семестр\Дискретка\14 week Diskretka\14weekdiskretka\14weekdiskretka\obj\Debug\14weekdiskretka.pdb
